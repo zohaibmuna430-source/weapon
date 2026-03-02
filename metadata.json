@@ -1,0 +1,5 @@
+{
+  "name": "Weapon Simulator",
+  "description": "Interactive gun selector and firing simulator with cinematic bullet time effects.",
+  "requestFramePermissions": []
+}
